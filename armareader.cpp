@@ -1,13 +1,3 @@
-/*
-
-I guess this is some sort of DEBUG wrp reader which displays tons of debug text data on the screen.
-
-For example it can cause huge slowdowns etc when displaying 500,000+ objects.
-
-WRP_Stats should be more user friendly and "finished" wrp statistics util.
-
-*/
-
 #include <QtCore/QCoreApplication>
 #include "armareader.h"
 #include <cstdio>
